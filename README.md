@@ -2,6 +2,6 @@
 
 ## 1. SmartCity : Traffic control module
 
-## 2. masked/unmasked
+## 2. mini washing machine
 
-## 3. mini washermachin
+## 3. masked/unmasked
